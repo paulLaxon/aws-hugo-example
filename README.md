@@ -1,2 +1,2 @@
-# aws-hugo-example
+# AWS Hugo Example
 demo of hugo serverless site using aws
